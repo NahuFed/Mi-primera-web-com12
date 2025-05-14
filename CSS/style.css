@@ -62,6 +62,7 @@ h6 {
 
 .contenedorPrincipal {
   border: 2px solid red;
+  height: 600px;
 }
 .caja {
   width: 200px;
@@ -77,7 +78,7 @@ h6 {
 }
 #cajaAmarilla {
   background: rgb(288, 232, 97);
-  position: absolute;
+  position: relative;
 }
 #cajaRoja {
   background: rgb(237, 67, 98);
